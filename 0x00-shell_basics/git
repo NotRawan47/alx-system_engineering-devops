@@ -1,1 +1,3 @@
+t commit -m “a”
+git push origin master
 
